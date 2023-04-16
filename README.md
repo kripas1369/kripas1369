@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile App Development <br>🤝 I’m looking for help<br>🌱 I’m currently learning React js and Swift<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Mobile App Development <br>🤝 I’m looking for help<br>🌱 I’m currently learning React js and Swift<br>💬 Ask me about<br>⚡ Fun fact:- Physics lover 
 
 
 ## 🌐 Socials:
